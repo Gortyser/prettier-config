@@ -10,8 +10,7 @@ dist
 .browserlistrc
 .editorconfig
 .prettierignore
-package-lock.json
 
 # Misc
-
 LICENSE
+package-lock.json

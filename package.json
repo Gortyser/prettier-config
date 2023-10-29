@@ -1,10 +1,11 @@
 {
 	"name": "@mfilin/prettier-config",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Shared prettier config",
 	"main": "index.js",
 	"files": [
-		"index.js"
+		"index.js",
+		".prettierignore"
 	],
 	"scripts": {
 		"format": "prettier . --write",
