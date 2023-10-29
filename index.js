@@ -6,4 +6,5 @@ module.exports = {
 	bracketSameLine: true,
 	vueIndentScriptAndStyle: true,
 	singleAttributePerLine: true,
+	htmlWhitespaceSensitivity: 'ignore',
 };
