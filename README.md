@@ -17,9 +17,7 @@ docs](https://prettier.io/docs/en/configuration)
 In package.json:
 
 ```json
-{
-	"prettier": "@mfilin/prettier-config"
-}
+"prettier": "@mfilin/prettier-config"
 ```
 
 In `.prettierrc`:

@@ -1,32 +1,32 @@
 {
-	"name": "@mfilin/prettier-config",
-	"version": "0.0.2",
-	"description": "Shared prettier config",
-	"main": "index.js",
-	"files": [
-		"index.js",
-		".prettierignore"
-	],
-	"scripts": {
-		"format": "prettier . --write",
-		"check": "prettier . --check"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/Gortyser/prettier-config.git"
-	},
-	"keywords": [
-		"prettier",
-		"prettier-config"
-	],
-	"author": "Mikhail Filin <mikhailf.codes@gmail.com>",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/Gortyser/prettier-config/issues"
-	},
-	"homepage": "https://github.com/Gortyser/prettier-config#readme",
-	"devDependencies": {
-		"prettier": "3.0.3"
-	},
-	"prettier": "./index.js"
+  "name": "@mfilin/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared prettier config",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    ".prettierignore"
+  ],
+  "scripts": {
+    "format": "prettier . --write",
+    "check": "prettier . --check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gortyser/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": "Mikhail Filin <mikhailf.codes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gortyser/prettier-config/issues"
+  },
+  "homepage": "https://github.com/Gortyser/prettier-config#readme",
+  "devDependencies": {
+    "prettier": "3.0.3"
+  },
+  "prettier": "./index.js"
 }
