@@ -1,0 +1,17 @@
+# Ignore artifacts
+build
+coverage
+dist
+
+# Ignore configs
+.idea
+.vscode
+.env
+.browserlistrc
+.editorconfig
+.prettierignore
+package-lock.json
+
+# Misc
+
+LICENSE
