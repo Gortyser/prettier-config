@@ -1,3 +1,5 @@
+![npm publish status](https://github.com/Gortyser/prettier-config/actions/workflows/npm-publish.yml/badge.svg)
+
 # @mfilin/prettier-config
 
 Extendable prettier configuration from person who's lazy enough to pack single config as a npm package.
