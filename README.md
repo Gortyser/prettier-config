@@ -1,4 +1,4 @@
-![npm publish status](https://github.com/Gortyser/prettier-config/actions/workflows/npm-publish.yml/badge.svg)
+![npm publish status](https://github.com/mikhail-filin/prettier-config/actions/workflows/npm-publish.yml/badge.svg)
 
 # @mfilin/prettier-config
 

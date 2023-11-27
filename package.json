@@ -13,7 +13,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Gortyser/prettier-config.git"
+		"url": "git+https://github.com/mikhail-filin/prettier-config.git"
 	},
 	"keywords": [
 		"prettier",
@@ -22,9 +22,9 @@
 	"author": "Mikhail Filin <mikhailf.codes@gmail.com>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/Gortyser/prettier-config/issues"
+		"url": "https://github.com/mikhail-filin/prettier-config/issues"
 	},
-	"homepage": "https://github.com/Gortyser/prettier-config#readme",
+	"homepage": "https://github.com/mikhail-filin/prettier-config#readme",
 	"devDependencies": {
 		"prettier": "3.0.3"
 	},
